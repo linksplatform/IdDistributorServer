@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Platform.Data.IdServer", "Platform.Data.IdServer.vcxproj", "{9402186F-6211-4C09-A5E6-DD3A57CCF04A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IdDistributorServer", "IdDistributorServer.vcxproj", "{9402186F-6211-4C09-A5E6-DD3A57CCF04A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
