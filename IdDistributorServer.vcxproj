@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9402186F-6211-4C09-A5E6-DD3A57CCF04A}</ProjectGuid>
-    <RootNamespace>PlatformDataIdServer</RootNamespace>
+    <RootNamespace>IdDistributorServer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ResolveNuGetPackages>false</ResolveNuGetPackages>
   </PropertyGroup>
